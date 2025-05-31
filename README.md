@@ -21,3 +21,8 @@ You can view the full financial forecast model here:
 > This model includes a 3-statement forecast and KPI analysis for a high-growth SaaS company.
 
 
+## 🖼️ Preview
+
+
+
+
