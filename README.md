@@ -23,6 +23,5 @@ You can view the full financial forecast model here:
 
 ## 🖼️ Preview
 
-
-
+![Preview](quickreview.png)
 
